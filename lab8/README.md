@@ -13,8 +13,8 @@ Output:
 
 #### Exercise Two
 Using the following rules
-R1: A -> BA'
-R2: A' -> aA' | empty
+* R1: A -> BA'
+* R2: A' -> aA' | empty
 
 Convert the grams as done in Week 08 Lecture 01.
 
